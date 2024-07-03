@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("Alo");
 
 		System.out.println("Commit do git para o eclipse");
+		
+		System.out.println("Commit do eclipse para o github");
 
 	}
 
